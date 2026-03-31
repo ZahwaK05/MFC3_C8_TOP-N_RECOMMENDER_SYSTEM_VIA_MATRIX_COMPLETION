@@ -47,7 +47,7 @@ A[Input Matrix] --> B[Mask]
 B --> C[ADMM Optimization]
 C --> D[Completed Matrix]
 D --> E[Top-N Recommendation]
-E --> F[Evaluation (HR/ARHR)]
+E --> F[Evaluation - HR/ARHR]
 
 ```
 ---
