@@ -49,13 +49,12 @@ C --> D[Completed Matrix]
 D --> E[Top-N Recommendation]
 E --> F[Evaluation HR/ARHR]
 
----
 ```
 ---
 
 # 🧮 OPTIMIZATION MODEL
 ```md
-## 🧮 Optimization Model
+🧮 Optimization Model
 
 We recover matrix **X** from observed matrix **M** using:
 
@@ -115,7 +114,7 @@ Project contents: :contentReference[oaicite:0]{index=0}
 
 # 📚 REFERENCES
 ```md
-## 📚 References
+
 
 - Ning & Karypis — SLIM Recommender Systems  
 - Shi & Yu — Matrix Completion Limitations  
