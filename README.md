@@ -13,7 +13,6 @@ Devana (CB.SC.U4AIE24213) |
 Manas (CB.SC.U4AIE24257) |  
 Zahwa K (CB.SC.U4AIE24261)
 
-> **Implementation Language:** All algorithms, experiments, and evaluation scripts in this project are implemented entirely in **MATLAB**.
 
 ---
 
